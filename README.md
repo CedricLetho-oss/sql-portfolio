@@ -1,5 +1,4 @@
 # sql-portfolio
-This is MY SQL PORTFOLIO FOR MY PROJECTS
 Project Title
 Customer Segmentation Analysis for E-commerce Business
 
